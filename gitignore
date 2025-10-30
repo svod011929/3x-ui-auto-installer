@@ -1,0 +1,29 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+logs/
+*.out
+
+# Временные файлы
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Конфигурационные файлы с чувствительными данными
+*.conf.backup
+*.txt.backup
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Тестовые файлы
+test/
+tests/
+*.test
