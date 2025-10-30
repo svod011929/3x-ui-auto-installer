@@ -47,7 +47,7 @@
 
 ```bash
 # Скачайте скрипт
-wget https://raw.githubusercontent.com/YOUR_USERNAME/3x-ui-auto-installer/main/3x-ui-auto-install.sh
+wget https://raw.githubusercontent.com/svod011929/3x-ui-auto-installer/main/3x-ui-auto-install.sh
 
 # Сделайте его исполняемым
 chmod +x 3x-ui-auto-install.sh
@@ -59,7 +59,7 @@ sudo bash 3x-ui-auto-install.sh
 ### Установка одной командой
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/YOUR_USERNAME/3x-ui-auto-installer/main/3x-ui-auto-install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/svod011929/3x-ui-auto-installer/main/3x-ui-auto-install.sh)
 ```
 
 ## 📖 Использование
