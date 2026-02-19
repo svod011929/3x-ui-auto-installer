@@ -162,7 +162,10 @@ EOF
 
 print_msg "Проверка и включение BBR..."
 modprobe tcp_bbr
-echo 'tcp_bbr' | tee -a /etc/modules-load.d/modules.conf
+
+if ! grep -qx 'tcp_bbr' /etc/modules-load.d/modules.conf 2>/dev/null; then
+    echo 'tcp_bbr' | tee -a /etc/modules-load.d/modules.conf > /dev/null
+fi
 
 # Проверка BBR
 echo ""
