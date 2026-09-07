@@ -1,3 +1,25 @@
+<!-- kododrive-readme-style -->
+
+<div align="center">
+  <img src="./assets/readme-header.svg" width="100%" alt="3x-ui-auto-installer" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/readme-meta.svg" width="100%" alt="meta" />
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/svod011929/3x-ui-auto-installer"><img src="https://img.shields.io/badge/GitHub-3x-ui-auto-installer-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="repo" /></a>
+  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" /></a>
+  <a href="https://github.com/svod011929"><img src="https://img.shields.io/badge/Author-svod011929-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="author" /></a>
+</p>
+
+<!-- /kododrive-readme-style -->
+
 # 3X-UI Auto-Installer с VLESS Reality
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -306,6 +328,8 @@ ufw reload
 ---
 
 **Примечание**: Скрипт оптимизирован для серверов в Финляндии и Германии, но может использоваться на любых VPS/Dedicated серверах с Ubuntu/Debian.
+
+---
 
 <!-- kododrive-projects-block -->
 
